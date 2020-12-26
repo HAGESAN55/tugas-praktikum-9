@@ -1,0 +1,34 @@
+body {
+    background-color: aquamarine;
+}
+
+.helo {
+    padding-top: 100px;
+}
+
+.atas {
+    padding-left: 20px;
+    color: blanchedalmond;
+}
+
+.bawah {
+    padding-top: 50px;
+}
+
+.gambar {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-bottom: 30px;
+}
+
+.footer-botom {
+    background: black;
+    padding: 20px 0px;
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 20px;
+    color: blanchedalmond;
+}
